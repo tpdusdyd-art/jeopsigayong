@@ -1,0 +1,2 @@
+This directory is for static assets like logos.
+You can upload your PNG files here using the file explorer.
